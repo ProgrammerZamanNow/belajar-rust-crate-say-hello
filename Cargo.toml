@@ -1,5 +1,5 @@
 [package]
-name = "say-hello"
+name = "belajar-say-hello"
 version = "0.1.0"
 edition = "2021"
 description = "This is say hello library"
